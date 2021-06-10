@@ -2,13 +2,13 @@ body {
   background-color: lightgray;
 }
 
-#IndexPageHead {
-  padding: 70px 0;
-  border: 3px solid green;
+p {
+  color: red;
   text-align: center;
 }
 
-p {
-  color: red;
+#IndexPageHead {
+  padding: 70px 0;
+  border: 3px solid green;
   text-align: center;
 }
