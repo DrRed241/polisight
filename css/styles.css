@@ -7,8 +7,9 @@ p {
   text-align: center;
 }
 
-#IndexPageHead {
-  padding: 200px 0;
-  border: 3px solid green;
-  text-align: center;
+.IndexPageHead {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
