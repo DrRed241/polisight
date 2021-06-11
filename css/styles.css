@@ -13,4 +13,5 @@ p {
   margin-right: auto;
   width: 50%;
   border-bottom: 6px solid gray;
+  background-color: lightgray;
 }
